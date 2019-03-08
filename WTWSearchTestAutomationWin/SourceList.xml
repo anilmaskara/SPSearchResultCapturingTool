@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Sources>
+  <Source Name="Select Source" ID="-1"></Source>
+  <Source Name="Local SharePoint Results" ID="8413cd39-2156-4e00-b54d-11efd9abdb89"></Source>
+  <Source Name="Conversations" ID="459dd1b7-216f-4386-9709-287d5d22f568"></Source>
+  <Source Name="Documents" ID="e7ec8cee-ded8-43c9-beb5-436b54b31e84"></Source>
+  <Source Name="Items matching a content type" ID="5dc9f503-801e-4ced-8a2c-5d1237132419"></Source>
+  <Source Name="Items matching a tag" ID="e1327b9c-2b8c-4b23-99c9-3730cb29c3f7"></Source>
+  <Source Name="Items related to current user" ID="48fec42e-4a92-48ce-8363-c2703a40e67d"></Source>
+  <Source Name="Items with same keyword as this item" ID="5c069288-1d17-454a-8ac6-9c642a065f48"></Source>
+  <Source Name="Local People Results" ID="b09a7990-05ea-4af9-81ef-edfab16c4e31"></Source>
+  <Source Name="Local Reports And Data Results" ID="203fba36-2763-4060-9931-911ac8c0583b"></Source>
+  <Source Name="Local Video Results" ID="78b793ce-7956-4669-aa3b-451fc5defebf"></Source>
+  <Source Name="Pages" ID="5e34578e-4d08-4edc-8bf3-002acf3cdbcc"></Source>
+  <Source Name="Pictures" ID="38403c8c-3975-41a8-826e-717f2d41568a"></Source>
+  <Source Name="Popular" ID="97c71db1-58ce-4891-8b64-585bc2326c12"></Source>
+  <Source Name="Recently changed items" ID="ba63bbae-fa9c-42c0-b027-9a878f16557c"></Source>
+  <Source Name="Recommended Items" ID="ec675252-14fa-4fbe-84dd-8d098ed74181"></Source>
+  <Source Name="Wiki" ID="9479bf85-e257-4318-b5a8-81a180f5faa1"></Source>
+</Sources>

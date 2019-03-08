@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RANKS>
+  <RANK ID="-1" Name="Select Rank"></RANK>
+  <RANK ID="8f6fd0bc-06f9-43cf-bbab-08c377e083f4" Name="Default Search Model"></RANK>
+  <RANK ID="5e9ee87d-4a68-420a-9d58-8913beeaa6f2" Name="Search Ranking Model with Two Linear Stages"></RANK>
+  <RANK ID="9b911c3e-78e1-4b99-9b1f-a69d3691bdd1" Name="O15 MainResultsDefaultRankingModel"></RANK>
+  <RANK ID="9399df62-f089-4033-bdc5-a7ea22936e8e" Name="O14 Default Search Model"></RANK>
+  <RANK ID="97cbcebd-037c-4346-9bc4-582d8c560204" Name="Search Model With Boosted Minspan"></RANK>
+  <RANK ID="df3c3c51-b41f-4cbc-9b1a-c3b0ed40d4f0" Name="Search Model Without Minspan"></RANK>
+  <RANK ID="d9bfb1a1-9036-4627-83b2-bbd9983ac8a1" Name="People Search application ranking model"></RANK>
+  <RANK ID="c8bdd081-7379-4c71-aac8-61b6aa6e25a6" Name="People Search expertise ranking model"></RANK>
+  <RANK ID="02b657fe-924f-4b2b-bb91-4a12baf9929a" Name="People Search expertise social distance ranking model"></RANK>
+  <RANK ID="0bba4d7d-4f2c-4086-975a-8f9d2b6c6d53" Name="People Search name ranking model"></RANK>
+  <RANK ID="5df7ba10-55d6-4da1-b55f-896f7bcb486b" Name="People Search name social distance ranking model"></RANK>
+  <RANK ID="4790b250-e2af-4e4a-8136-600739ee3163" Name="People Search social distance model"></RANK>
+  <RANK ID="ca2a10ff-6f63-4913-a125-34b5894495f4" Name="Catalog ranking model"></RANK>
+  <RANK ID="d4ac6500-d1d0-48aa-86d4-8fe9a57a74af" Name="Popularity ranking model"></RANK>
+  <RANK ID="b63ad0fd-3ab4-490d-b556-379dc4a52422" Name="Recommender ranking model"></RANK>
+  <RANK ID="9e09f192-e036-422f-ad3b-534574e8f894" Name="Site suggestion ranking model"></RANK>
+
+</RANKS>
